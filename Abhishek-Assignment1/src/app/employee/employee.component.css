@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+}
+th{
+    color: bisque;
+    background-color: black;
+}
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: lightblue;
+color: gray;
+text-align: center;
+}
+a{
+    color: black;
+}
